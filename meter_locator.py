@@ -5,7 +5,7 @@ import pandas as pd
 page_bg_img = '''
 <style>
 .stApp {
-  background-image: url("https://previews.123rf.com/images/maximillion/maximillion1403/maximillion140300032/26351019-background-abstract-triangle-geometry-pattern-cloud-application.jpg");
+  background-image: url("https://media.istockphoto.com/photos/white-lines-and-spheres-picture-id1135638647?b=1&k=20&m=1135638647&s=170667a&w=0&h=j32QwPBMCmdX9ViKWvitis6N3l3Wl-lBEl1Ut9ImiBk=");
   background-size: cover;
 }
 </style>
