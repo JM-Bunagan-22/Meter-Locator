@@ -5,7 +5,7 @@ import pandas as pd
 page_bg_img = '''
 <style>
 .stApp {
-  background-image: url("https://meralcomain.s3.ap-southeast-1.amazonaws.com/images/ckeditor-images/Corporate-profile-overview_0.jpg");
+  background-image: url("https://media.philstar.com/photos/2019/01/31/bus4-smart-meter-meralco_2019-01-31_19-44-53.jpg");
   background-size: cover;
 }
 </style>
