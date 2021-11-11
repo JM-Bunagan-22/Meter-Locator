@@ -1,6 +1,16 @@
 # import the streamlit library
 import streamlit as st
 import pandas as pd
+#set background
+page_bg_img = '''
+<style>
+body {
+background-image: url("https://images.unsplash.com/photo-1542281286-9e0a16bb7366");
+background-size: cover;
+}
+</style>
+'''
+st.markdown(page_bg_img, unsafe_allow_html=True)
 #read excel file
 df = pd.read_excel('Random.xlsx')
 df.drop_duplicates(subset ="METER_NUMBER", inplace = True)
